@@ -74,6 +74,10 @@ namespace ConditionalStatements
                 {
                     Console.WriteLine("Your predicted grade is A+");
                 }
+                else
+                {
+                    Console.WriteLine("Please try again with an integer between 0 and 100");
+                }
             } // end of try
             catch
             {
