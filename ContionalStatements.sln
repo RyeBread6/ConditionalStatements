@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContionalStatements", "ContionalStatements.csproj", "{C22EEC75-AB58-4617-AC16-1AE925D5679A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C22EEC75-AB58-4617-AC16-1AE925D5679A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22EEC75-AB58-4617-AC16-1AE925D5679A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22EEC75-AB58-4617-AC16-1AE925D5679A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22EEC75-AB58-4617-AC16-1AE925D5679A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9313D87-1468-4304-BC57-CCC6D9D4B78F}
+	EndGlobalSection
+EndGlobal
